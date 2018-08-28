@@ -45,4 +45,4 @@ class JtLoader(data.Dataset):
             return len(self.test_data)
 
 
-print('ok!')
+print('Go!')
